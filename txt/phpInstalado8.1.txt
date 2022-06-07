@@ -1,0 +1,576 @@
+    1  mount -o rw, remount /
+    2  mount -o rw,remount /
+    3  passwd root
+    4  rebot
+    5  reboot
+    6  exit
+    7  cat /etc/passwd
+    8  exit
+    9  apt install vlc
+   10  apt install vim
+   11  exit
+   12  mv /etc/apt/preferences.d/nosnap.pref  /etc/apt/preferences.d/nosnap.pref_bak 
+   13  sudo apt update
+   14  sudo apt install snapd
+   15  sudo snap install obs-studio
+   16  obs.
+   17  pwd
+   18  ll
+   19  exit
+   20  pwd
+   21  ll
+   22  sudo snap connect obs-studio:alsa
+   23  sudo snap connect obs-studio:audio-record
+   24  sudo snap connect obs-studio:avahi-control
+   25  sudo snap connect obs-studio:camara
+   26  sudo snap connect obs-studio:camera
+   27  sudo snap connect obs-studio:jack1
+   28  sudo snap connect obs-studio:kernel-module-observe
+   29  sudo snap connect obs-studio:avahi-control
+   30  sudo snap connect obs-studio:kernel-module-observe
+   31  sudo apt install v412loopback-dkms v4l2loopback.conf
+   32  echo "v412loopback" | sudo tee /etc/modules-load.d/v412loopback.conf
+   33  sudo modprobe -r v4l2loopback
+   34  exit
+   35  visudo
+   36  cat /etc/group
+   37  vim /etc/group
+   38  exit
+   39  ll
+   40  ls
+   41  sudo
+   42  visudo
+   43  exit
+   44  visudo
+   45  vim /etc/group
+   46  exit
+   47  sudo usermod -aG sudo dariohimo
+   48  id
+   49  id dariohimo
+   50  gpasswd -a dariohimo sudo
+   51  exit
+   52  usermod -aG sudo dariohimo
+   53  exit
+   54  ll
+   55  sudo passwd
+   56  sudo apt install v4l2loopback-dkms
+   57  cd /etc/apt/preferences.d/
+   58  ll
+   59  mv nosnap.pref_bak Bak_nosnap.pref
+   60  ll
+   61  sudo apt install v4l2loopback-dkms
+   62  sudo modprobe -r v4l2loopback; sudo modprobe v4l2loopback
+   63  lsmod grep v4
+   64  grep v4 lsmod
+   65  lsmod
+   66  lsmod |grep v4
+   67  sudo snap install fakecam
+   68  snap fakecamp app 
+   69  snap fakecamp
+   70  snap connect fakecam:camera
+   71  cd /etc
+   72  cd modprobe.d/
+   73  ll
+   74  vi fakecamp.conf
+   75  reboot
+   76  cd /etc/modprobe.d/
+   77  vi fakecam.conf 
+   78  sudo modprobe -r v4l2loopback; sudo modprobe v4l2loopback
+   79  cd /etc
+   80  cd modprobe.d/
+   81  ll
+   82  cat fakecam
+   83  mv fakecamp.conf fakecam.conf
+   84  cat fakecam.conf 
+   85  vi fakecam.conf 
+   86  exit
+   87  echo v2l2loopback | sudo tee -a /etc/modules-load.d/fakecam.conf
+   88  cat /etc/modules-load.d/fakecam.conf 
+   89  man tee
+   90  vi /etc/modules-load.d/fakecam.conf
+   91  sudo modprobe -r v4l2loopback
+   92  sudo modprobe v4l2loopback
+   93  ll
+   94  exit
+   95  ll
+   96  cd /home/dariohimo/Descargas/
+   97  ll
+   98  cd sipexer-v1.0.0-linux-amd64/
+   99  ll
+  100  sipexer sip
+  101  ls -la
+  102  cd ..
+  103  cd sipexer-v1.0.0-linux-amd64(1)
+  104  cd sipexer-v1.0.0-linux-amd64 (1)
+  105  ll
+  106  cd sipexer-v1.0.0-linux-amd64_1/
+  107  ll
+  108  ./sipexer sip
+  109  ./sipexer localhost
+  110  ./sipexer sip.sinologic.net
+  111  msyql_secure_installation
+  112  apt 
+  113  apt list maria*
+  114  apt 
+  115  history
+  116  exit
+  117  mysql_secure_installation
+  118  exit
+  119  }
+  120  systemc start mariadb
+  121  systemctl start mariadb
+  122  systemctl disalbe mariadb.service
+  123  systemctl disable mariadb.service
+  124  systemctl enable mariadb.service
+  125  systemctl start mariadb
+  126  journalctl -xe 
+  127  ll /var/lib/mysql
+  128  cd /var/lib/mysql
+  129  ll
+  130  ls -la
+  131  ll
+  132  ls
+  133  cd mysql
+  134  ll
+  135  rm -fr *
+  136  ll
+  137  cd ..
+  138  ll
+  139  cd .
+  140  cd -
+  141  cd ~
+  142  ~
+  143  mysql_install_db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+  144  sudo systemctl start mysqld
+  145  sudo systemctl start mysql.service
+  146  sudo systemctl start mariadb
+  147  mysql
+  148  cd /var/run/mysqld/
+  149  ll
+  150  cd ..
+  151  ll
+  152  sudo apt -get remove mariadb-server mariadb-client
+  153  sudo apt-get remove mariadb-servre
+  154  sudo apt-get remove mariadb-service
+  155  sudo apt-get remove mariadb-services
+  156  sudo apt-get remove mariadb-server
+  157  sudo apt autoremove
+  158  sudo apt-get remove mariadb-client
+  159  cd /var/lib/
+  160  ll
+  161  ll mysql
+  162  ll mysql-files/
+  163  ll mysql-keyring/
+  164  ll
+  165  mv mysql mysql_bk
+  166  ll
+  167  ll mysql_bk/
+  168  sudo apt-get install --reinstall mariadb-server mariadb-client
+  169  sudo systemctl status mariadb
+  170  sudo systemctl start mariadb
+  171  sudo systemctl disable mariadb.service
+  172  sudo systemctl enable mariadb.service
+  173  sudo systemctl start mariadb
+  174  sudo journalctl -xe
+  175  sudo apt-get remove mariadb-client
+  176  sudo apt-get remove mariadb-server
+  177  sudo apt-get install software-properties-common
+  178  sudo apt-key adv --recv-keys --keyserver hkp://keyserver.ubuntu.com:80 0xF1656F24C74CD1D8
+  179  sudo add-apt-repository 'deb [arch=amd64,arm64,ppc64el] http://mariadb.mirrors.ovh.net/MariaDB/repo/10.3/ubuntu bionic main'
+  180  sudo apt update
+  181  apt list --upgrable
+  182  apt list --upgradable
+  183  sudo apt update
+  184  sudo apt upgrade
+  185  sudo systemctl mariadb
+  186  sudo systemctl statusmariadb
+  187  sudo systemctl status mariadb
+  188  sudo systemctl start mariadb
+  189  sudo apt install mariadb-server
+  190  sudo apt remove mariadb-server
+  191  sudo apt update
+  192  sudo apt list --upgradable
+  193  sudo apt remove mariadb-client
+  194  sudo apt remove mariadb-client-10.3
+  195  sudo apt update
+  196  sudo apt list upgradable
+  197  sudo apt update
+  198  sudo apt list --upgradable
+  199  sudo apt remove mariadb-server-core-10.3
+  200  sudo apt remove mysql-common
+  201  sudo apt list --upgradable
+  202  sudo apt list --upgradable -a
+  203  sudo apt update
+  204  sudo apt upgrade
+  205  sudo apt install mariadb-server
+  206  sudo systemctl status mariadb
+  207  sudo systemctl start mariadb
+  208  sudo systemctl status mariadb
+  209  systemctl status mariadb
+  210  htop
+  211  systemctl status mariadb
+  212  sudo systemctl start mariadb
+  213  ps -aux |grep mariadb
+  214  ps -aux |grep mysql
+  215  systemctl status mariadb
+  216  systemctl stop mariadb
+  217  systemctl status mariadb
+  218  systemctl start mariadb
+  219  df -h
+  220  exit
+  221  ll
+  222  vi conexion.php 
+  223  php conexion.php 
+  224  cd ..
+  225  php index.php 
+  226  pwd
+  227  cd config/
+  228  ll
+  229  vi conexion.php 
+  230  php conexion.php 
+  231  cd ..
+  232  php index.php 
+  233  cd config/
+  234  ll
+  235  vi conexion.php 
+  236  php index.php 
+  237  php conexion.php 
+  238  cd ..
+  239  php index.php 
+  240  cd ..
+  241  ll
+  242  cd crud-pdo-vanilla-php/
+  243  ll
+  244  cd config/
+  245  ll
+  246  vi conexion.php 
+  247  php conexion.php 
+  248  cd ..
+  249  ll
+  250  php index.php 
+  251  ip a
+  252  ll
+  253  cd config/
+  254  ll
+  255  vi conexion.php 
+  256  pwd
+  257  vi conexion.php 
+  258  php conexion.php 
+  259  cd ..
+  260  ll
+  261  php index.php 
+  262  vi index.php 
+  263  php index.php 
+  264  pwd
+  265  php index.php 
+  266  telnet localhost:3305
+  267  locate mysql
+  268  apt-get install telnet
+  269  telnet localhost:3305
+  270  telnet localhos
+  271  sudo apt-get install telnet
+  272  telnet localhos
+  273  telnet localhost
+  274  telnet localhost:3305
+  275  telnet 127.0.0.1
+  276  telnet 127.0.0.1:3305
+  277  telnet 127.0.0.1 3305
+  278  telnet 127.0.0.1
+  279  telnet 127.0.0.1 80
+  280  apt list --installed
+  281  apt list --installed |grep mariadb
+  282  sudo apt list --installed |grep mariadb
+  283  dpkg -l
+  284  cd ..
+  285  ll
+  286  ll crud-pdo-vanilla-php/
+  287  cd 
+  288  pwd
+  289  cd ~
+  290  pwd
+  291  cd 
+  292  pwd
+  293  exit
+  294  ll
+  295  vi conexion.php 
+  296  php conexion.php 
+  297  vi conexion.php 
+  298  php conexion.php 
+  299  vi conexion.php 
+  300  ll
+  301  cd ..
+  302  ll
+  303  cd ..
+  304  ll
+  305  ls -la
+  306  sudo chown root:dariohimo -R www
+  307  ll
+  308  ls la
+  309  ls -la
+  310  pwd
+  311  cd www/html/
+  312  ll
+  313  sudo rm -fr crud-pdo-vanilla-php
+  314  ll
+  315  sudo git clone https://github.com/AndresEstebanPatino/crud-pdo-vanilla-php.git
+  316  ll
+  317  cd crud-pdo-vanilla-php
+  318  ll
+  319  ll config/
+  320  cd config/
+  321  ll
+  322  code
+  323  cd ..
+  324  ll
+  325  ./code_root.sh 
+  326  code
+  327  cat code_root.sh 
+  328  sudo ./code_root.sh 
+  329  code
+  330  sudo vi code_root.sh 
+  331  sudo ./code_root.sh 
+  332  sudo vi code_root.sh 
+  333  sudo ./code_root.sh 
+  334  sudo vi code_root.sh 
+  335  sudo ./code_root.sh 
+  336  code
+  337  sudo code
+  338  sudo code .
+  339  code .
+  340  ll
+  341  cat code_root.sh 
+  342  sudo code --user-data-dir="~/.vscode-root"
+  343  code
+  344  ll
+  345  sudo whereis code
+  346  sudo visudo
+  347  ll
+  348  ls
+  349  pwd
+  350  cd ..
+  351  ll
+  352  pwd
+  353  exit
+  354  pwd
+  355  dpkg -l |grep php | tee >> packages_php7.txt
+  356  ll
+  357  cat packages_php7.txt 
+  358  l
+  359  dpkg -l |grep php | tee packages_php77.txt
+  360  ll
+  361  sudo apt-get purge php7.*
+  362  apt-get autoclean
+  363  apt-get autoremove
+  364  apt-get update
+  365  apt-get install php8.0
+  366  systectl restart apache
+  367  systectl status apache
+  368  systemctl status httpd
+  369  systemctl status apache
+  370  service apache2 restart
+  371  service apache2 status
+  372  systemctl status apache2
+  373  sudo apt install php8.0-common php8.0-mysql php8.0-xml php8.0-xmlrpc php8.0-curl php8.0-gd php8.0-imagick php8.0-cli php8.0-dev php8.0-imap php8.0-mbstring php8.0-opcache php8.0-soap php8.0-zip php8.0-intl -y
+  374  pkg-php-tools
+  375  apt-update
+  376  apt-get update
+  377  apt install --no-install-recommends php8.0-dev
+  378  apt install php8.0-dev
+  379  apache2 -v
+  380  apt install php8.0 libapache2-mod-php8.0
+  381  apt install php8.0
+  382  systemctl restart apach2
+  383  systemctl restart apache2
+  384  systemctl start apache2
+  385  systemctl status apache2
+  386  apt install php8.0
+  387  apt install php8.0 lipapache2-mod-php8.0
+  388  systemctl restart apache2
+  389  apt install php8.0 lipapache2-mod-php8.0
+  390  apt install lipapache2-mod-php8.0
+  391  apt install ca-certificates apt-transport-https software-properties-common
+  392  apt update
+  393  apt upgrade
+  394  add-apt-repository ppa:ondrej/php
+  395  apache2 -v
+  396  apt install php8.0 libapache2-mod-php8.0
+  397  php -v
+  398  apt install php8.0-common php8.0-mysql php8.0-xml php8.0-xmlrpc php8.0-curl php8.0-gd php8.0-imagick php8.0-cli php8.0-dev php8.0-imap php8.0-mbstring php8.0-opcache php8.0-soap php8.0-zip php8.0-intl -y
+  399  apt-cache policy php-dev
+  400  ppa-purge ppa:ondrej/php
+  401  apt install ppa-purge
+  402  apt-install apt-show-versions
+  403  apt-show-versions |fgrep newer
+  404  apt install php8.0
+  405  apt install php8.0 liapache2-mod.php8.0
+  406  apt install php8.0 lipache2-mod.php8.0
+  407  apt install php8.0 lipache2-mod-php8.0
+  408  cat /etc/apt/sources.list
+  409  apt install software-properties-common
+  410  add-apt-repository ppa:ondrej/php
+  411  apt update
+  412  apt install php8.0 libapache2-mod-php8.0
+  413  apt install php8.0 libapache2-mod-php8.0 php8.0-cli libpcre2-8-0
+  414  systemctl restart apache2
+  415  apt update
+  416  apt install php8.0-fpm libapache2-mod-fcgid
+  417  apt install php8.0-common php8.0-mysql php8.0-xml php8.0-xmlrpc php8.0-curl php8.0-gd php8.0-imagick php8.0-cli php8.0-dev php8.0-imap php8.0-mbstring php8.0-opcache php8.0-soap php8.0-zip php8.0-intl -y
+  418  systemctl restart apache2
+  419  systemctl status apache2
+  420  php -v
+  421  apt install phpmyadmin
+  422  cd laravel/
+  423  composer install
+  424  vi composer.json 
+  425  cat composer
+  426  ll
+  427  ls
+  428  php artisan key:generateApplication key
+  429  vi artisan 
+  430  composer install
+  431  nfo from https://repo.packagist.org: #StandWithUkraine
+  432  composer update
+  433  apt install php8.0-curl
+  434  apt update
+  435  chmod -R 777 bootstrap/cache storage
+  436  composer update
+  437  systemctl restart apache2
+  438  pwd
+  439  composer install
+  440  exit
+  441  composer clear-cache
+  442  ls
+  443  cat composer.json 
+  444  rm -fr vendor 
+  445  composer update -v
+  446  curl -sS https://getcomposer.org/installer | php -- --check
+  447  ll
+  448  vi artisan 
+  449  ll
+  450  ls -la
+  451  php artisan list
+  452  php artisan serve
+  453  ll
+  454  ls -la
+  455  composer install
+  456  php artisan key:generateApplication key
+  457  cd vendor
+  458  ll
+  459  apt install php-cli unzip
+  460  curl -sS https://getcomposer.org/installer -o composer-setup.php
+  461  ll
+  462  php composer-setup.php --install-dir=/usr/local/bin --filename=composer
+  463  composer
+  464  composer status
+  465  composer install
+  466  php artisan key:generateApplication key 
+  467  php artisan key:generate --show
+  468  ll
+  469  apt-get install php-mbstring php-dom
+  470  apt-get install php8.0-mbstring php8.0-dom
+  471  apt-get install  php8.0-dom
+  472  apt-get install  php8.0-xml
+  473  ll
+  474  ls
+  475  wget https://getcomposer.org/composer.phar
+  476  ls -la
+  477  chmod 777 composer.phar 
+  478  ll
+  479  cp composer.phar /usr/bin/composer
+  480  ll
+  481  ./composer.phar 
+  482  composer
+  483  ll
+  484  mkdir download
+  485  mv composer-setup.php download/
+  486  mv composer.phar download/
+  487  ll
+  488  composer install
+  489  php artisan key:generateApplication key
+  490  composer
+  491  composer update
+  492  apt-get install php8.0-curl
+  493  apt autoremove
+  494  apt-get install php8.0-curl
+  495  apt update
+  496  apt install libapache2-mod-php8.0
+  497  apt install php-curl
+  498  apt install php8.0-curl
+  499  phpenmod curl
+  500  apt-get install  php8.0-curl
+  501  php artisan key:generateApplication key 
+  502  composer update
+  503  php -v
+  504  php composer update
+  505  ll
+  506  cd download/
+  507  ll
+  508  php composer-setup.php --install-dir=/usr/local/bin --filename=composer
+  509  cd ..
+  510  php composer 
+  511  php composer.phar 
+  512  composer
+  513  php artisan key:generateApplication key
+  514  cd laravel/
+  515  php artisan key:generateApplication key
+  516  cd ..
+  517  mv laravel laravel_Bk
+  518  ll
+  519  composer create-project laravel/laravel web-demo
+  520  run php --ini
+  521  php --ini
+  522  composer create-project laravel/laravel web-demo --ignore-platform-req=ext-dom
+  523  ll
+  524  cd web-demo/
+  525  ll
+  526  php artisan serve
+  527  cd ..
+  528  php artisan serve
+  529  ll
+  530  cd web-demo/
+  531  php artisan serve
+  532  ll
+  533  less artisan 
+  534  cd ..
+  535  composer global require laravel/installer
+  536  ll
+  537  cd web-demo/
+  538  php artisan serve
+  539  composer global require laravel/installer
+  540  vi composer.json 
+  541  composer -v
+  542  ls -ld /usr/local/bin/composer 
+  543  composer --version
+  544  cd ..
+  545  ll
+  546  composer create-project laravel/laravel laravelapp
+  547  ll
+  548  ls
+  549  composer create-project laravel/laravel laravelapp
+  550  ll
+  551  ls
+  552  ls -la
+  553  cat code_root.sh 
+  554  ll
+  555  cd User/
+  556  ll
+  557  cd ..
+  558  ll
+  559  composer create-project laravel/laravel laravelapp
+  560  composer create-project laravel/laravel demoapp
+  561  composer create-project laravel/laravel demoapp --ignore-platform-req=ext-dom
+  562  php artisan
+  563  ll
+  564  cd web-demo/
+  565  php artisan
+  566  cd ..
+  567  ll
+  568  mv laravel_Bk Bk_laravel
+  569  ll
+  570  composer create-project laravel/laravel demoapp
+  571  history >> install_php8.1
+  572  less install_php8.1 
+  573  composer
+  574  exit
+  575  history 
+  576  history >> phpInstalado8.1.txt

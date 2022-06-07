@@ -1,0 +1,1000 @@
+ 1023  mysql -u root 
+ 1024  mysql -u root -p
+ 1025  mysql -u root 
+ 1026  mysql -p root
+ 1027  mysql -u root -p soporte
+ 1028  mysql -u root -p
+ 1029  mysql -u root
+ 1030  mysql -u root 
+ 1031  mysql -u root -p
+ 1032  mysql -u root -p soporte
+ 1033  systemctl restart mysqld
+ 1034  sudo systemctl restart mysqld
+ 1035  sudo systemctl start mysqld
+ 1036  sudo systemctl status mysqld
+ 1037  sudo mysql_secure_installation
+ 1038  sudo systemctl status mysqld
+ 1039  sudo systemctl status mysql
+ 1040  sudo systemctl restart mysql
+ 1041  sudo systemctl status mysql
+ 1042  mysql -u root 
+ 1043  mysql -u root -p
+ 1044  mysql -u root -p 
+ 1045  sudo mysql -u root -p
+ 1046  sudo dpkg-reconfigure -plow phpmyadmin
+ 1047  sudo mysql -u root -p
+ 1048  sudo apt-get install mysql-workbench-community
+ 1049  sudo snap install mysql-workbench-community
+ 1050  cat /etc/group
+ 1051  cat /etc/groups
+ 1052  cat /etc/group
+ 1053  top
+ 1054  sudo php -v
+ 1055  top
+ 1056  mtop
+ 1057  top
+ 1058  sudo apt install mtop
+ 1059  htop
+ 1060  sudo apt install htop
+ 1061  htop
+ 1062  mysql -u root -p 
+ 1063  mysql -u programate 
+ 1064  mysql -u programate -p
+ 1065  mysql -u root -p 
+ 1066  mysql -u programate -p
+ 1067  history 
+ 1068  mysql -u programate -p
+ 1069  mysql -u root -p 
+ 1070  mysql -u root -p
+ 1071  sudo mysql_secure_installation
+ 1072  mysql -u root -p
+ 1073  sudo systemctl restart mysqld
+ 1074  sudo systemctl restart mysql
+ 1075  sudo systemctl status mysql
+ 1076  mysql -u root -p
+ 1077  grep 'temporary' /var/log/mysql/error.log 
+ 1078  grep 'temporary' /var/log/mysql/*
+ 1079  grep 'temporary' /var/log/mysql/error.log 
+ 1080  mysql -u root --skip-password
+ 1081  systemctl stop mysql
+ 1082  sudo mysql_safe --skip-grant-tables &
+ 1083  sudo mysqld_safe --skip-grant-tables &
+ 1084  sudo mysql_safe --skip-grant-tables &
+ 1085  mysql -u root -p
+ 1086  mysql -u root
+ 1087  mysql
+ 1088  systemctl start mysql
+ 1089  mysql -u root
+ 1090  mysql -u root -p
+ 1091  sudo mysql_secure_connection
+ 1092  sudo systemctl stop mysql
+ 1093  sudo mysqld -init-file=~/mysql-pwd
+ 1094  sudo systemctl start mysql
+ 1095  mysql -u root -p
+ 1096  mysqladmin -u root password programte22+
+ 1097  mysqladmin -u root password newpass
+ 1098  mysqladmin -u programate -p
+ 1099  mysqladmin -u programate -p programate22+
+ 1100  mysqladmin -u programate -p
+ 1101  mysqladmin -u programate
+ 1102  sudo mysql_secure_connection
+ 1103  systemctl start mysql
+ 1104  sudo mysql_secure_connection
+ 1105  mysql_secure_connection
+ 1106  sudo mysql_secure_connection
+ 1107  su -
+ 1108  su - root
+ 1109  sudo su - root
+ 1110  l
+ 1111  history
+ 1112  history |grep apt
+ 1113  sudo apt autoremove mysql-server
+ 1114  mysql -u root 
+ 1115  mysql -u root  -p
+ 1116  history |grep apt
+ 1117  apt list --installed
+ 1118  apt list --installed |grep mysql
+ 1119  apt list --installed |grep maria
+ 1120  apt list --installed |grep mariadb
+ 1121  apt list --installed |grep mysql-server
+ 1122  apt list --installed 
+ 1123  sudo mysql -u root
+ 1124  sudo apt autoremove mysql-server
+ 1125  sudo apt autoremove mysql
+ 1126  sudo apt get install mysql
+ 1127  sudo apt install mysql
+ 1128  sudo apt install mysql-server
+ 1129  sudo apt
+ 1130  sudo apt install mariadb
+ 1131  sudo apt install mariadb*
+ 1132  apt list --installed |grep mysql*
+ 1133  sudo systemctl status mysql
+ 1134  sudo systemctl stop mysql
+ 1135  sudo apt remove mysql
+ 1136  sudo apt-get remove mysql
+ 1137  sudo apt-get remove mysql-server
+ 1138  mysql -u root
+ 1139  mysql -u root -p
+ 1140  mysql -u root
+ 1141  mysql -u root -p
+ 1142  sudo mysql -u root -p
+ 1143  sudo mysql_secure_installation
+ 1144  sudo su -
+ 1145  sudo mysql_secure_installation
+ 1146  mysql_secure_installation
+ 1147  sudo apt-get remove mysql-server
+ 1148  mysql_secure_installation
+ 1149  sudo apt-get autoremove mysql-server
+ 1150  sudo apt-get remove mysql-server
+ 1151  sudo apt-update
+ 1152  sudo apt-get update
+ 1153  sudo apt-get install mariadb
+ 1154  sudo apt-get install mariadb-server
+ 1155  sudo mysql_secure_instalation
+ 1156  sudo mysql_secure_installation
+ 1157  sudo systemctl status mariadb
+ 1158  sudo systemctl start mariadb
+ 1159  sudo systemctl status mariadb
+ 1160  ps -aux |grep mysql
+ 1161  fill -9 24165
+ 1162  ps -aux |grep mysql
+ 1163  sudo systemctl status mariadb
+ 1164  sudo systemctl start mariadb
+ 1165  reboot
+ 1166  mariadb -u root
+ 1167  mariadb -u root -p
+ 1168  cd /var/run/mysqld/mysqld.sock
+ 1169  cd /var/run/mysqld/
+ 1170  ll
+ 1171  ls -la
+ 1172  cd /var/run/mysqld
+ 1173  cd ..
+ 1174  ll
+ 1175  rm -fr mysqld/
+ 1176  sudo rm -fr mysqld/
+ 1177  cd -
+ 1178  ll
+ 1179  pwd
+ 1180  cd -
+ 1181  pwd
+ 1182  cd ~
+ 1183  pwd
+ 1184  sudo systemctl status mariadb
+ 1185  sudo systemctl start mariadb
+ 1186  sudo apt-get remove mariadb
+ 1187  sudo apt-get remove mariadb-server
+ 1188  sudo apt-get autoremove mariadb-server
+ 1189  sudo systemctl start mariadb
+ 1190  sudo mysql_secure_installation
+ 1191  which mysql_secure_installation
+ 1192  sudo rm -fr /usr/bin/mysql*
+ 1193  which mysql_secure_installation
+ 1194  find / -name mysql *
+ 1195  find / -name mysql*
+ 1196  sudo find / -name mysql*
+ 1197  sudo mysql_secure_installation
+ 1198  sudo apt-get install mariadb-server
+ 1199  sudo mysql_secure_installation
+ 1200  sudo apt-get reinstall mariadb-server
+ 1201  sudo apt-get autoremove mariadb-server
+ 1202  mariadb
+ 1203  sudo apt-get install mariadb-server
+ 1204  sudo mysql -u root
+ 1205  sudo mysql -u root p
+ 1206  sudo mysql -u root -p
+ 1207  sudo mariadb -u root -p
+ 1208  sudo apt-get update
+ 1209  sudo apt-get install mariadb-server
+ 1210  systemctl status mariadb
+ 1211  systemctl start mariadb
+ 1212  systemctl status mariadb
+ 1213  sudo systemctl status mariadb
+ 1214  sudo mysql_secure_installation
+ 1215  sudo mysqladmin -u root -p version
+ 1216  sudo apt-get autoremove mariadb-server
+ 1217  sudo apt get update
+ 1218  sudo apt-get update
+ 1219  sudo apt-get install mariadb-server
+ 1220  sudo systemctl status mariadb
+ 1221  sudo whereis mysql_secure_installation
+ 1222  sudo where mysql_secure_installation
+ 1223  history
+ 1224  sudo which mysql_secure_installation
+ 1225  sudo apt-get install mariadb-client
+ 1226  sudo apt-get reinstall mariadb-client
+ 1227  sudo which mysql_secure_installation
+ 1228  sudo which mysql
+ 1229  sudo which ll
+ 1230  sudo which mariadb-client
+ 1231  sudo where mariadb
+ 1232  sudo which firefox
+ 1233  sudo apt-get install mariadb-common
+ 1234  sudo apt-get reinstall mariadb-common
+ 1235  sudo which mysql_secure_installation
+ 1236  sudo systemctl status mariadb
+ 1237  sudo systemctl start mariadb
+ 1238  sudo apt-get remove mysql-server
+ 1239  sudo systemctl status mariadb
+ 1240  sudo systemctl start mariadb
+ 1241  sudo journalctl -xe
+ 1242  sudo systemctl start mariadb
+ 1243  sudo journalctl -xe
+ 1244  ll
+ 1245  pwd
+ 1246  ls -la
+ 1247  ls
+ 1248  pwd
+ 1249  ls -la
+ 1250  ls
+ 1251  ll
+ 1252  ls -la
+ 1253  cat .mycli.log 
+ 1254  ll
+ 1255  rm -fr .mycl*
+ 1256  sudo systemctl start mariadb
+ 1257  rm -fr .mysql_history 
+ 1258  sudo systemctl start mariadb
+ 1259  ll
+ 1260  ls -la
+ 1261  sudo apt-get remove mariadb-server
+ 1262  sudo apt-get install mysql-server
+ 1263  sudo apt-get autoremove mariadb-server
+ 1264  sudo apt-get update
+ 1265  sudo apt-get install mysql-server
+ 1266  sudo apt-get remove mysql-server
+ 1267  sudo apt-get install mysql-server
+ 1268  sudo apt-get install mysql-server-8.0
+ 1269  sudo apt-get install mysql-server mysql-client
+ 1270  sudo systemctl status mysql
+ 1271  sudo systemctl status mysql-server
+ 1272  sudo apt-get install mysql-server mysql-client
+ 1273  sudo apt-get reinstall mysql-server mysql-client
+ 1274  df -h
+ 1275  q
+ 1276  ll
+ 1277  sudo systemctl status mysql
+ 1278  sudo apt-get reinstall mysql-server
+ 1279  sudo apt autoremove
+ 1280  sudo systemctl status mysql
+ 1281  sudo systemctl status mysqld
+ 1282  sudo systemctl status mysql-service
+ 1283  sudo systemctl status mysql
+ 1284  sudo systemctl start mysql
+ 1285  sudo apt-get install mysql-server
+ 1286  sudo system status mysql
+ 1287  sudo systemctl status mysql
+ 1288  sudo apt-get remove mysql-server mysql-client
+ 1289  sudo apt-get autoremove
+ 1290  sudo apt-get autoremove mysql
+ 1291  sudo apt-get autoremove mysql-client
+ 1292  sudo apt-get autoremove mysql-server
+ 1293  sudo apt-get update
+ 1294  sudo mysql -u root
+ 1295  sudo mysql -u root -p
+ 1296  sudo mysql_secure_installation
+ 1297  sudo systemctl status mysql
+ 1298  sudo mysql
+ 1299  df -h
+ 1300  sudo df -h
+ 1301  sudo df -h /
+ 1302  sudo mysql --version
+ 1303  sudo service mysql start
+ 1304  sudo service mysql restart
+ 1305  sudo apt-get upgrade
+ 1306  sudo systemctl status mysql
+ 1307  sudo systemctl status mariadb
+ 1308  sudo systemctl status mysql
+ 1309  sudo dpkg --configure -a
+ 1310  sudo systemctl status mysql
+ 1311  sudo systemctl start mysql
+ 1312  sudo dpkg --configure -a
+ 1313  sudo dpkg --configure -a mysql-server
+ 1314  sudo dpkg --configure mysql-server
+ 1315  sudo systemctl start mysql
+ 1316  sudo mysqld --initialize
+ 1317  sudo apt-get purge apparmor
+ 1318  sudo mysqld --initialize
+ 1319  sudo systemctl start mysql
+ 1320  sudo systemctl statatus mysql
+ 1321  sudo systemctl stats mysql
+ 1322  sudo systemctl status mysql
+ 1323  sudo ln -s /etc/apparmor.d/usr.sbin.mysqld /etc/apparmor.d/disable/
+ 1324  sudo systemctl start mysql
+ 1325  sudo systemctl status mysql
+ 1326  sudo update-rc.d -f apparmor remove
+ 1327  sudo systemctl status mysql
+ 1328  sudo systemctl start mysql
+ 1329  sudo service mysql start
+ 1330  sudo apt-get --purgre remove mysql-server mysql-commom mysql-client
+ 1331  sudo apt-get --purge remove mysql-server mysql-commom mysql-client
+ 1332  sudo apt update
+ 1333  sudo apt dist-upgrade
+ 1334  sudo apt autoremove
+ 1335  sudo apt-get install mysql-server mysql-client
+ 1336  sudos systemc status mysql
+ 1337  sudos systemctl status mysql
+ 1338  sudo systemctl status mysql
+ 1339  sudo apt-get install --reinstall mysql-server-8.0
+ 1340  sudo systemctl disable mysql.service
+ 1341  sudo systemctl enable mysql.service
+ 1342  sudo systemctl start mysql
+ 1343  journalctl -xe
+ 1344  sudo systemctl disable mysql.service
+ 1345  sudo apt-get install --reinstall mysql-server-8.0
+ 1346  sudo apt-get install --reinstall mysql-server
+ 1347  sudo systemctl start mysql
+ 1348  sudo apt-get install --reinstall mysql-server-8.0.28
+ 1349  sudo apt-get install --reinstall mysql-server-8.0.28-0
+ 1350  sudo apt-get install --reinstall mysql-server-
+ 1351  sudo apt-get --purge remove mysql-server mysql-common mysql-client
+ 1352  sudo apt-get --purge remove mysql-server mysql-common
+ 1353  sudo apt-get --purge remove  mysql-common
+ 1354  sudo apt-get --purge remove default-mysql-client
+ 1355  sudo apt-get --purge remove virtual-mysql-client
+ 1356  sudo apt update && sudo apt dist-upgrade && sudo apt autoremove
+ 1357  sudo apt install mysql-server-5.7
+ 1358  sudo apt install mariadb-server-10.3
+ 1359  sudo systemctl status mariadb
+ 1360  systemctl status mariadb
+ 1361  systemctl start mariadb
+ 1362  journatlctl -xe
+ 1363  journalctl -xe
+ 1364  sudo mysql_secure_installation
+ 1365  systemctl status mariadb
+ 1366  sudo systemctl status mariadb
+ 1367  sudo systemctl disable mysql.service
+ 1368  sudo systemctl e
+ 1369  sudo systemctl disable mariabd.service
+ 1370  sudo systemctl enable mariabd.service
+ 1371  sudo systemctl enable mariadb.service
+ 1372  sudo systemctl status mariadb
+ 1373  sudo systemctl start mariadb
+ 1374  journalctl -xe
+ 1375  sudo su
+ 1376  sudo systemctl status mariadb
+ 1377  sudo mysql
+ 1378  sudo mysql -u root
+ 1379  sudo mysql -u root -p
+ 1380  sudo apt-get install mysql-workbench-community
+ 1381  sudo apt update
+ 1382  sudo apt-get install mysql-workbench-community
+ 1383  sudo snap install mysql-workbench-community
+ 1384  sudo apt install mysql-workbench-community
+ 1385  sudo apt install snapd
+ 1386  sudo apt update
+ 1387  sudo apt install snapd
+ 1388  sudo apt-get install mysql-workbench
+ 1389  sudo apt update
+ 1390  cd Descargas/
+ 1391  ll
+ 1392  pwd
+ 1393  sudo apt install mysql-apt-config_0.8.22-1_all.deb
+ 1394  sudo apt install .mysql-apt-config_0.8.22-1_all.deb
+ 1395  sudo apt install ./mysql-apt-config_0.8.22-1_all.deb
+ 1396  mysql-workbench
+ 1397  sudo apt search mysql-workbench
+ 1398  cd Descargas/
+ 1399  ll
+ 1400  uname -a
+ 1401  sudo gdebi mysql-workbench-community_8.0.28-1ubuntu20.04_amd64.deb 
+ 1402  sudo mariadb
+ 1403  mysql -u root -p
+ 1404  sudo systemctl status mariadb
+ 1405  sudo mysqladmin version
+ 1406  sudo mysqladmin -u soporte -p version
+ 1407  cd /etc
+ 1408  cd phpmyadmin/
+ 1409  ll
+ 1410  cp config.inc.php config.inc.php_Bk
+ 1411  sudo cp config.inc.php config.inc.php_Bk
+ 1412  sudo vi config.inc.php
+ 1413  cat /etc/group |more
+ 1414  vi sudo
+ 1415  visudo
+ 1416  sudo visudo
+ 1417  cat /etc/linuxmint/info 
+ 1418  sudo apt-get install terminator
+ 1419  ls -la
+ 1420  ssh
+ 1421  ls -la
+ 1422  ipcofnig
+ 1423  ipconfig
+ 1424  sudo ip a
+ 1425  cd /etc
+ 1426  ll
+ 1427  cd ssh/
+ 1428  ll
+ 1429  cat ssh_config
+ 1430  cat ssh_config |more
+ 1431  ll
+ 1432  cd ssh_config.d/
+ 1433  ll
+ 1434  cd ..
+ 1435  ll
+ 1436  cp ssh_config ssh_config_Bk
+ 1437  sudo cp ssh_config ssh_config_Bk
+ 1438  vi ssh_config
+ 1439  cd ..
+ 1440  cd apache2/sites-available/
+ 1441  ll
+ 1442  less 000-default.conf 
+ 1443  cd /var/www/html/
+ 1444  ll
+ 1445  vi index.html 
+ 1446  sudo vi index.html 
+ 1447  pwd
+ 1448  cd /etc/mysql/
+ 1449  ll
+ 1450  cat mysql.cnf 
+ 1451  ll
+ 1452  cd mysql.conf.d/
+ 1453  ll
+ 1454  cat mysql.cnf 
+ 1455  ps -aux
+ 1456  pwd
+ 1457  cd /var/www/html/
+ 1458  ll
+ 1459  mkdir proyecto_php
+ 1460  sudo mkdir proyecto_php
+ 1461  ll
+ 1462  sudo mkdir crud-pdo-vanilla-php
+ 1463  cd crud-pdo-vanilla-php/
+ 1464  sudo vim index.php
+ 1465  sudo mkdir config
+ 1466  cd config/
+ 1467  lll
+ 1468  pwd
+ 1469  sudo vim conexion.php
+ 1470  ll
+ 1471  cd ..
+ 1472  ll
+ 1473  vi index.php 
+ 1474  sudo vi index.php 
+ 1475  ll
+ 1476  cd config/
+ 1477  ll
+ 1478  sudo vim conexion.php 
+ 1479  cd ..
+ 1480  ll
+ 1481  sudo vi index.php 
+ 1482  php -v index.php 
+ 1483  php  index.php 
+ 1484  sudo vi index.php 
+ 1485  php  index.php 
+ 1486  cd config/
+ 1487  ll
+ 1488  php conexion.php 
+ 1489  ll
+ 1490  vi conexion.php 
+ 1491  sudo vi conexion.php 
+ 1492  php conexion.php 
+ 1493  sudo vi conexion.php 
+ 1494  php conexion.php 
+ 1495  sudo vi conexion.php 
+ 1496  php conexion.php 
+ 1497  sudo vi conexion.php 
+ 1498  php conexion.php 
+ 1499  cd ..
+ 1500  php index.php 
+ 1501  sudo vi index.php 
+ 1502  php index.php 
+ 1503  sudo vi index.php 
+ 1504  php index.php 
+ 1505  sudo vi index.php 
+ 1506  php index.php 
+ 1507  sudo vi index.php 
+ 1508  php index.php 
+ 1509  cd config/
+ 1510  ll
+ 1511  php conexion.php 
+ 1512  sudo vim /etc/groups
+ 1513  sudo vim /etc/group
+ 1514  sudo vim /etc/passwd
+ 1515  cd -
+ 1516  pwd
+ 1517  ll
+ 1518  c config/
+ 1519  ll
+ 1520  pwd
+ 1521  cd config/
+ 1522  ll
+ 1523  sudo vim conexion.php 
+ 1524  php conexion.php 
+ 1525  sudo vim conexion.php 
+ 1526  php conexion.php 
+ 1527  php ../index.php 
+ 1528  cd ..
+ 1529  php index.php 
+ 1530  cd config/
+ 1531  ll
+ 1532  php conexion.php 
+ 1533  su
+ 1534  ll
+ 1535  cd -
+ 1536  pwd
+ 1537  ls -la
+ 1538  cd ~
+ 1539  ll
+ 1540  ls
+ 1541  cd Documentos/
+ 1542  ll
+ 1543  cd /opt
+ 1544  ll
+ 1545  pwd
+ 1546  cd ..
+ 1547  ls -la opt/
+ 1548  cd zoom
+ 1549  cd opt/
+ 1550  l
+ 1551  ls -la
+ 1552  cd zoom/
+ 1553  ll
+ 1554  ls -la
+ 1555  cd ..
+ 1556  ll
+ 1557  sudo chmod dariohimo:dariohimo -R zoom/
+ 1558  ll
+ 1559  sudo chown dariohimo:dariohimo -R zoom/
+ 1560  ls
+ 1561  ls -la
+ 1562  cd ..
+ 1563  ll
+ 1564  sudo systemctl status apache
+ 1565  sudo systemctl status httpd
+ 1566  sudo systemctl status apache
+ 1567  pwd
+ 1568  ll
+ 1569  cd /var/www/html/crud-pdo-vanilla-php/
+ 1570  ll
+ 1571  sudo vim index.php 
+ 1572  ls -la
+ 1573  cd ..
+ 1574  ls -la
+ 1575  ll crud-pdo-vanilla-php/
+ 1576  ls -la
+ 1577  sudo chown dariohimo:dariohimo  crud-pdo-vanilla-php/
+ 1578  ls -la
+ 1579  ll crud-pdo-vanilla-php/
+ 1580  sudo chown dariohimo:dariohimo -R crud-pdo-vanilla-php/
+ 1581  ll crud-pdo-vanilla-php/
+ 1582  sudo vim /etc/group
+ 1583  code
+ 1584  sudo code .
+ 1585  sudo code
+ 1586  sudo code --user-data-dir="~/.vscode-root"
+ 1587  sudo code
+ 1588  sudo code.
+ 1589  sudo code .
+ 1590  code
+ 1591  ll
+ 1592  pwd
+ 1593  cd ..
+ 1594  ll
+ 1595  sudo chown root:root -R www
+ 1596  ll
+ 1597  cd www/html/
+ 1598  ll
+ 1599  ls -la
+ 1600  sudo mv crud-pdo-vanilla-php crud-pdo-vanilla-php_1
+ 1601  ll
+ 1602  ls -la
+ 1603  git clone https://github.com/dariohimo/crud-pdo-vanilla-php.git
+ 1604  ll
+ 1605  sudo git clone https://github.com/dariohimo/crud-pdo-vanilla-php.git
+ 1606  ll
+ 1607  cd crud-pdo-vanilla-php
+ 1608  l
+ 1609  ll
+ 1610  rm -fr .git/
+ 1611  ll
+ 1612  sudo rm -fr .git/
+ 1613  ll
+ 1614  cd config/
+ 1615  ll
+ 1616  vi conexion.php 
+ 1617  sudo code --user-data-dir="~/.vscode-root"
+ 1618  code
+ 1619  sudo vi code_root
+ 1620  ll
+ 1621  chmod 777 code_root 
+ 1622  sudo chmod 777 code_root 
+ 1623  ll
+ 1624  sudo code /directory-to-open --user-data-dir='.' --no-sandbox
+ 1625  ll
+ 1626  cd ..
+ 1627  ll
+ 1628  cd ..
+ 1629  ll
+ 1630  cd crud-pdo-vanilla-php
+ 1631  ll
+ 1632  cd config/
+ 1633  ll
+ 1634  sudo vi code_root 
+ 1635  ll
+ 1636  sudo mv code_root code_root
+ 1637  sudo mv code_root code_root.sh
+ 1638  ll
+ 1639  cd /opt/
+ 1640  ll
+ 1641  cd -
+ 1642  ll
+ 1643  pwd
+ 1644  sudo mv code_root.sh ../../../html/
+ 1645  cd ..
+ 1646  ll
+ 1647  cd ..
+ 1648  ll
+ 1649  cat code_root.sh 
+ 1650  ll
+ 1651  cd crud-pdo-vanilla-php
+ 1652  code .
+ 1653  ll
+ 1654  cd ..
+ 1655  ll
+ 1656  cd crud-pdo-vanilla-php
+ 1657  ls -la
+ 1658  code
+ 1659  ls -la
+ 1660  cd config/
+ 1661  ll
+ 1662  pwd
+ 1663  ll
+ 1664  pwd
+ 1665  ls -la
+ 1666  cd ..
+ 1667  ll
+ 1668  ll config/
+ 1669  cd ..
+ 1670  ll
+ 1671  sudo ./code_root.sh 
+ 1672  code
+ 1673  ll
+ 1674  cd crud-pdo-vanilla-php
+ 1675  ll
+ 1676  rm -fr .git/
+ 1677  ll
+ 1678  ls -la
+ 1679  sudo rm -fr .git/
+ 1680  ll
+ 1681  ls -la
+ 1682  cat nuevo.php 
+ 1683  ll
+ 1684  sudo whereis code
+ 1685  visudo
+ 1686  sudo visudo
+ 1687  code
+ 1688  exit
+ 1689  cd /var/www/html/
+ 1690  ll
+ 1691  cd crud-pdo-vanilla-php
+ 1692  code
+ 1693  code .
+ 1694  sudo /etc/group
+ 1695  sudo vi /etc/group
+ 1696  sudo visudo
+ 1697  code .
+ 1698  sudo visudo
+ 1699  exit
+ 1700  cd /var/www/
+ 1701  ll
+ 1702  cd html/
+ 1703  ll
+ 1704  cd crud-pdo-vanilla-php/
+ 1705  ll
+ 1706  cd config/
+ 1707  ll
+ 1708  pwd
+ 1709  ll
+ 1710  cd ..
+ 1711  ll
+ 1712  ll config/conexion.php 
+ 1713  ll
+ 1714  php index.php 
+ 1715  sudo vim index.php 
+ 1716  cd config/
+ 1717  ll
+ 1718  php conexion.php 
+ 1719  cd ..
+ 1720  php index.php 
+ 1721  sudo php -vvv index.php 
+ 1722  sudo php index.php 
+ 1723  pw
+ 1724  pwd
+ 1725  cd config/
+ 1726  ll
+ 1727  su
+ 1728  ln -s /var/www/html proyectoPhp
+ 1729  cd proyectoPhp
+ 1730  ll
+ 1731  cd crud-pdo-vanilla-php
+ 1732  code .
+ 1733  sudo whereis code
+ 1734  cd /usr/bin/
+ 1735  ll
+ 1736  ls -la code
+ 1737  sudo visudo
+ 1738  pwd
+ 1739  cd
+ 1740  pwd
+ 1741  cd proyectoPhp
+ 1742  ll
+ 1743  cd crud-pdo-vanilla-php
+ 1744  ll
+ 1745  code .
+ 1746  ll
+ 1747  sudo vim /etc/ssh/ssh_config
+ 1748  sudo systemctl restart sshd
+ 1749  ssh localhost
+ 1750  sudo apt instal openssh-server
+ 1751  sudo apt install openssh-server
+ 1752  ssh localhost
+ 1753  ip a
+ 1754  cd /etc/ssh/
+ 1755  ll
+ 1756  sudo less ssh_config
+ 1757  sudo vim ssh_config
+ 1758  sudo systemctl restart sshd
+ 1759  ssh localhost
+ 1760  ip a
+ 1761  sudo whereis php
+ 1762  sudo whereis php7.4
+ 1763  sudo vi /etc/group
+ 1764  cd proyectoPhp
+ 1765  ll
+ 1766  sudo ./code_root.sh 
+ 1767  code
+ 1768  ll
+ 1769  pwd
+ 1770  ls -la
+ 1771  pwd
+ 1772  cd /var/www/html/
+ 1773  ll
+ 1774  sudo chmod dariohimo:root -R crud-pdo-vanilla-php
+ 1775  sudo chown dariohimo:root -R crud-pdo-vanilla-php
+ 1776  ll
+ 1777  pwd
+ 1778  cd crud-pdo-vanilla-php
+ 1779  ll
+ 1780  cd config/
+ 1781  ll
+ 1782  php conexion.php 
+ 1783  vi conexion.php 
+ 1784  php conexion.php 
+ 1785  sudo php conexion.php 
+ 1786  sudo php -v conexion.php 
+ 1787  ll
+ 1788  cat conexion.php 
+ 1789  ll
+ 1790  php conexion.php
+ 1791  sudo php conexion.php
+ 1792  vi conexion.php 
+ 1793  sudo php conexion.php
+ 1794  php conexion.php
+ 1795  ll
+ 1796  vi conexion.php 
+ 1797  php conexion.php
+ 1798  cd ..
+ 1799  php index.php 
+ 1800  php -vvv index.php 
+ 1801  php index.php 
+ 1802  ll
+ 1803  cd ..
+ 1804  ll
+ 1805  cd crud-pdo-vanilla-php_1
+ 1806  ll
+ 1807  cat index.php 
+ 1808  cat index.php |more
+ 1809  cls
+ 1810  clear
+ 1811  mysql -u root -p
+ 1812  clear
+ 1813  mysql -u root -p
+ 1814  clear
+ 1815  mysql -u root -p
+ 1816  find / -name tbl_change.php
+ 1817  sudo find / -name tbl_change.php
+ 1818  cd /usr/share/phpmyadmin/tbl_change.php
+ 1819  cd /etc/phpmyadmin/
+ 1820  ll
+ 1821  cd conf.d/
+ 1822  ll
+ 1823  cd ..
+ 1824  ll
+ 1825  sudo find / -name tbl_change.php
+ 1826  cd /usr/share/phpmyadmin/
+ 1827  ll
+ 1828  vim tbl_change.php 
+ 1829  LL
+ 1830  ll
+ 1831  sudo cp -R crud-pdo-vanilla-php crud-pdo-vanilla-php_get
+ 1832  sudo chown dariohimo:root -R crud-pdo-vanilla-php_get/
+ 1833  ll crud-pdo-vanilla-php_get/
+ 1834  cd ..
+ 1835  ll
+ 1836  cd html/
+ 1837  ll
+ 1838  ll crud-pdo-vanilla-php
+ 1839  ll
+ 1840  ll crud-pdo-vanilla-php_get/
+ 1841  ping yiahoo.com
+ 1842  ll
+ 1843  mkdir php_andres
+ 1844  sudo mkdir php_Andres
+ 1845  ll
+ 1846  sudo chown dariohimo:root -R php_Andres/
+ 1847  ll php_Andres/
+ 1848  sudo chown dariohimo:root -R php_Andres/
+ 1849  ip a
+ 1850  pwd
+ 1851  ll
+ 1852  cd php_Andres/
+ 1853  ll
+ 1854  cd clases_objetos_php/
+ 1855  ll
+ 1856  cd ..
+ 1857  ll
+ 1858  mkdir clases_php_persona
+ 1859  ll
+ 1860  cd clases_php_persona/
+ 1861  su -
+ 1862  pwd
+ 1863  ll
+ 1864  git init
+ 1865  git status
+ 1866  git commit -m "first crud php, heroku"
+ 1867  git status
+ 1868  git add .
+ 1869  git commit -m "first crud php, heroku"
+ 1870  git status
+ 1871  sudo git remote add origin https://github.com/dariohimo/crud-pdo-Php.git
+ 1872  git push -u origin main
+ 1873  sudo git push -u origin main
+ 1874  git branch -M main
+ 1875  git push -u origin main
+ 1876  ssh ssh-dariohimo.alwaysdata.net 
+ 1877  ll
+ 1878  ls -la
+ 1879  ll
+ 1880  l
+ 1881  scp -r config dariohimo@ssh-dariohimo.alwaysdata.net:/
+ 1882  scp config dariohimo@ssh-dariohimo.alwaysdata.net
+ 1883  scp index.php dariohimo@ssh-dariohimo.alwaysdata.net
+ 1884  scp index.php dariohimo@ssh-dariohimo.alwaysdata.net:/home/dariohimo
+ 1885  scp * dariohimo@ssh-dariohimo.alwaysdata.net:/home/dariohimo
+ 1886  scp -r config dariohimo@ssh-dariohimo.alwaysdata.net:/home/dariohimo
+ 1887  ssh ssh-dariohimo.alwaysdata.net 
+ 1888  php -v
+ 1889  mariadb -v
+ 1890  exit
+ 1891  cd /var/www/html/
+ 1892  ll
+ 1893  cd crud-pdo-vanilla-php
+ 1894  ll
+ 1895  less index.php 
+ 1896  scp dariohimo@ssh-dariohimo.alwaysdata.net
+ 1897  ssh dariohimo@ssh-dariohimo.alwaysdata.net
+ 1898  cd ..
+ 1899  ll
+ 1900  cd php_Andres/
+ 1901  git clone https://github.com/JymmyMurillo/Lo-tienes-CRUDo-Consultorio.git
+ 1902  ll
+ 1903  ll Lo-tienes-CRUDo-Consultorio/
+ 1904  pwd
+ 1905  ll
+ 1906  cd Lo-tienes-CRUDo-Consultorio/
+ 1907  ll
+ 1908  less model/conexion.php 
+ 1909  php -v
+ 1910  less model/conexion.php 
+ 1911  cd model/
+ 1912  ll
+ 1913  vi conexion.php 
+ 1914  ll
+ 1915  cd ..
+ 1916  ll
+ 1917  vim index.php 
+ 1918  cat index.php 
+ 1919  cd controler/
+ 1920  ll
+ 1921  vim citasControler.php 
+ 1922  ll
+ 1923  cd .
+ 1924  cd ..
+ 1925  ll
+ 1926  cat nuevaCita.php 
+ 1927  ll model/
+ 1928  less model/conexion.php 
+ 1929  cd ..
+ 1930  pwd
+ 1931  ll
+ 1932  cd Lo-tienes-CRUDo-Consultorio/|
+ 1933  cd Lo-tienes-CRUDo-Consultorio/
+ 1934  ll
+ 1935  cat index.php 
+ 1936  less controler/citasControler.php 
+ 1937  less view/citasView.php 
+ 1938  ll
+ 1939  ll view/
+ 1940  less view/nuevaCitaView.php 
+ 1941  ll
+ 1942  vi index.php 
+ 1943  cd controler/
+ 1944  ll
+ 1945  vi citasControler.php 
+ 1946  pwd
+ 1947  cd ..
+ 1948  vi view/citasView.php 
+ 1949  vi view/nuevaCitaView.php
+ 1950  ll
+ 1951  vi model/conexion.php 
+ 1952  git pull
+ 1953  git status
+ 1954  git add .
+ 1955  git status
+ 1956  git -m commti "created file readme and directory img update bd conection"
+ 1957  git -m commit "created file readme and directory img update bd conection"
+ 1958  git  commit -m "created file readme and directory img update bd conection"
+ 1959  git push
+ 1960  git pull
+ 1961  git push
+ 1962  git push --help
+ 1963  git commit -m "update file config and readme"
+ 1964  git status
+ 1965  git add -
+ 1966  git add .
+ 1967  git status
+ 1968  git push
+ 1969  cat .git/
+ 1970  ll
+ 1971  history |grep git
+ 1972  git status
+ 1973  git add 
+ 1974  git add .
+ 1975  git status
+ 1976  git push
+ 1977  git pull
+ 1978  git rebase --continue
+ 1979  git push origin main
+ 1980  git getch
+ 1981  git fetch
+ 1982  git push
+ 1983  git pull
+ 1984  git commit -m "send file"
+ 1985  git push
+ 1986  git status
+ 1987  git .
+ 1988  git add .
+ 1989  git status
+ 1990  git commit -m "updatea readme"
+ 1991  git commit -m "update readme"
+ 1992  git status
+ 1993  git commit -m "update readme"
+ 1994  git push
+ 1995  git add .
+ 1996  git commit -m "update color style"
+ 1997  git push
+ 1998  git status
+ 1999  git pull
+ 2000  git add .
+ 2001  git status
+ 2002  git add .
+ 2003  git status
+ 2004  git commit -m "update readme link herokuapp github"
+ 2005  git push
+ 2006  git commit -m "update link project"
+ 2007  git pull
+ 2008  git commit -m "change readme element details "
+ 2009  git push
+ 2010  git pull
+ 2011  git status
+ 2012  git add .
+ 2013  git commit "upgrade changes repo git"
+ 2014  git status
+ 2015  git pull
+ 2016  git push
+ 2017  git status
+ 2018  git push
+ 2019  git pull
+ 2020  history | grep git
+ 2021  cd ..
+ 2022  history > history_git.txt
